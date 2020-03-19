@@ -1,0 +1,3 @@
+com\faber\googleauthen\GoogleAuthen.class
+com\faber\googleauthen\SecurityConfig.class
+com\faber\googleauthen\controller\MainController.class
